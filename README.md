@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Arsen
 #### Nice to meet you
 
-I'm Data Sciensits, which love python and worked in web, servers, analitics . I'm study on Kagle now.
+I'm MLE, which loves his works and tried himself in web, servers, analitics . I'm practising on Kaggle now.
 
-Skills: Flask, Pandas, Plotly, Dash, PyQT5, Ngnix, SQLAlchemy, Re, Linux
+Skills: sklearn, TensorFlow, Flask, Pandas, Plotly, Dash, Ngnix, SQLAlchemy, re, Linux
 
-- 🌱 I’m currently learning DataScience Frameworks 
+- 🌱 I’m currently making projects with ML and keras 
 - 💞️ I’m looking to collaborate on Startapp 
 - 📫 How to reach me: arsennurumanov@gmail.com 
 
